@@ -1,4 +1,4 @@
-package br.com.apirestfull.model;
+package br.com.apirestfull.user.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
