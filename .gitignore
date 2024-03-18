@@ -32,5 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
+*.jar
 
-src/main/resources/application.temp.properties
+src/main/resources/application-dev.properties
+thunder-collection_API - Spring Boot.json
