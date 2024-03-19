@@ -8,11 +8,11 @@
 		<version>3.2.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.api-restfull</groupId>
-	<artifactId>api-restfull</artifactId>
+	<groupId>br.com.apirestful</groupId>
+	<artifactId>api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>api-restfull</name>
-	<description>Project Spring Boot - Api RestFull</description>
+	<name>apirestful</name>
+	<description>Project Spring Boot - Api RestFul</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
