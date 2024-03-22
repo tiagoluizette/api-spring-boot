@@ -26,6 +26,6 @@ public class serviceListUser {
   }
 
   public Optional<userModel> findById(Integer id) {
-    if (id != null) return this.repository.findById(id); else return null;
+    if (id != null) return repository.findById(id); else return null;
   }
 }
